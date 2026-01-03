@@ -1,3 +1,9 @@
+`.colorscheme` files should be placed inside the following directory:
+
+```
+/usr/share/qtermwidget5/color-schemes/<INSERT_THEME_HERE>
+```
+
 # Laserwave
 
 ![](assets/laserwave.png)
